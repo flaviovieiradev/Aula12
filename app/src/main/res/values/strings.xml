@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">App12</string>
+    <string name="txt_cadastro">Cadastro de Pessoas</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_cidade">Cidade</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="action_settings">Configurações</string>
+    <string-array name="lista_nomes">
+        <item>Alexander Tanner</item>
+        <item>Marsden Kirkland</item>
+        <item>Brenden Swanson</item>
+        <item>Caleb Odom</item>
+        <item>Plato Baldwin</item>
+        <item>Cadman Becker</item>
+        <item>Byron Sharpe</item>
+        <item>Nathaniel Bass</item>
+        <item>Uriah Pate</item>
+        <item>Wallace Day</item>
+        <item>Elmo Woodard</item>
+        <item>Lucius Evans</item>
+        <item>Abdul Sexton</item>
+        <item>Kelly Beach</item>
+        <item>Richard Hardy</item>
+        <item>Driscoll Adkins</item>
+        <item>Tarik West</item>
+        <item>Orson House</item>
+        <item>Aaron Sparks</item>
+    </string-array>
+</resources>
